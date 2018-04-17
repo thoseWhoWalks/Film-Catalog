@@ -1,0 +1,218 @@
+{
+    "films": [
+        {
+            "id": 1,
+            "Name": "Ai Weiwei: Never sorry",
+            "Year": 2012,
+            "Stars": ["Ai Weiwei", "Dan Ai", "Lao Ai"],
+            "Description": "A documentary that chronicles artist and activist Ai Weiwei as he prepares for a series of exhibitions and gets into an increasing number of clashes with the Chinese government.",
+            "Poster": "./img/aiWeiwei.jpg",
+            "Director": "Alison Klayman"
+        },
+        {
+            "id": 2,
+            "Name": "Apocalypse Now",
+            "Year": 1979,
+            "Stars": [
+                    "Marlon Brando",
+                    "Robert Duvall",
+                    "Martin Sheen",
+                    "Frederic Forrest",
+                    "Albert Hall",
+                    "Sam Bottoms",
+                    "Laurence Fishburne",
+                    "Dennis Hopper"],
+            "Description": "Apocalypse Now is a 1979 American epic war film directed, produced, and co-written by Francis Ford Coppola. It was co-written by John Milius with narration written by Michael Herr. It stars Marlon Brando, Robert Duvall, Martin Sheen, Frederic Forrest, Albert Hall, Sam Bottoms, Larry Fishburne, and Dennis Hopper. The screenplay, written by Milius, adapts the story of Joseph Conrad's novella Heart of Darkness, changing its setting from late nineteenth-century Congo to the Vietnam War.[4] ",
+            "Poster": "./img/apocalypseNow.jpg",
+            "Director": "Francis Coppola"
+        },
+        {
+            "id": 3,
+            "Name": "A woman under the influance",
+            "Year": 1974,
+            "Stars": ["Gena Rowlands", "Peter Falk", "Fred Draper"],
+            "Description": "Mabel Longhetti (Gena Rowlands), desperate and lonely, is married to a Los Angeles municipal construction worker, Nick (Peter Falk). Increasingly unstable, especially in the company of others, she craves happiness, but her extremely volatile behavior convinces Nick that she poses a danger to their family and decides to commit her to an institution for six months. Alone with a trio of kids to raise on his own, he awaits her return, which holds more than a few surprises.",
+            "Poster": "./img/aWomanUnderTheInfluance.jpg",
+            "Director": "John Cassavetes"
+        },
+        {
+            "id": 4,
+            "Name": "By the sea",
+            "Year": 2015,
+            "Stars": ["Brad Pitt", "Angelina Jolie", "Mélanie Laurent"],
+            "Description": "A troubled American couple (Brad Pitt, Angelina Jolie Pitt) befriend young newlyweds and local villagers while staying at French seaside resort.",
+            "Poster": "./img/byTheSea.jpg",
+            "Director": "Angelina Jolie Pitt"
+        },
+        {
+            "id": 5,
+            "Name": "Cinema Paradiso",
+            "Year": 1988,
+            "Stars": ["Philippe Noiret", "Enzo Cannavale", "Antonella Attili"],
+            "Description": "Young Salvatore Di Vita (Salvatore Cascio) discovers the perfect escape from life in his war-torn Sicilian village: the Cinema Paradiso movie house, where projectionist Alfredo (Philippe Noiret) instills in the boy a deep love of films. When Salvatore grows up, falls in love with a beautiful local girl (Agnese Nano) and takes over as the Paradiso's projectionist, Alfredo must convince Salvatore to leave his small town and pursue his passion for filmmaking.",
+            "Poster": "./img/cinemaParadiso.jpg",
+            "Director": "Giuseppe Tornatore"
+        },
+        {
+            "id": 6,
+            "Name": "A Fistful of Dollars",
+            "Year": 1964,
+            "Stars": ["Clint Eastwood", "Gian Maria Volontè", "Marianne Koch"],
+            "Description": "The Man With No Name (Clint Eastwood) enters the Mexican village of San Miguel in the midst of a power struggle among the three Rojo brothers (Antonio Prieto, Benny Reeves, Sieghardt Rupp) and sheriff John Baxter (Wolfgang Lukschy). When a regiment of Mexican soldiers bearing gold intended to pay for new weapons is waylaid by the Rojo brothers, the stranger inserts himself into the middle of the long-simmering battle, selling false information to both sides for his own benefit.",
+            "Poster": "./img/clintEastwood.jpg",
+            "Director": "Sergio Leone"
+        },
+        {
+            "id": 7,
+            "Name": "The Bridges of Madison County",
+            "Year": 1995,
+            "Stars": ["Clint Eastwood", "Meryl Streep", "Annie Corley"],
+            "Description": "A moving love story about a photographer on assignment to shoot the historic bridges of Madison County. He meets a housewife, whose husband and children are away on a trip, and the film traces a brief affair that is never sordid but instead one of two soul mates who have met too late.",
+            "Director": "Clint Eastwood"
+        },
+        {
+            "id": 8,
+            "Name": "Fight Club",
+            "Year": 1999,
+            "Stars": ["Brad Pitt", "Edward Norton", "Meat Loaf"],
+            "Description": "A depressed man (Edward Norton) suffering from insomnia meets a strange soap salesman named Tyler Durden (Brad Pitt) and soon finds himself living in his squalid house after his perfect apartment is destroyed. The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla (Helena Bonham Carter), a fellow support group crasher, attracts Tyler's attention.",
+            "Poster": "./img/fightClub.jpg",
+            "Director": "David Fincher"
+        },
+        {
+            "id": 9,
+            "Name": "Gladiator",
+            "Year": 2000,
+            "Stars": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+            "Description": "Commodus (Joaquin Phoenix) takes power and strips rank from Maximus (Russell Crowe), one of the favored generals of his predecessor and father, Emperor Marcus Aurelius, the great stoical philosopher. Maximus is then relegated to fighting to the death in the gladiator arenas.",
+            "Poster": "./img/gladiator.jpg",
+            "Director": "Ridley Scott"
+        },
+        {
+            "id": 10,
+            "Name": "Inception",
+            "Year": 2010,
+            "Stars": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+            "Description": "Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: Plant an idea in someone's mind. If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move.",
+            "Poster": "./img/inception.jpg",
+            "Director": "Christopher Nolan"
+        },
+        {
+            "id": 11,
+            "Name": "Leon",
+            "Year": 1994,
+            "Stars": ["Jean Reno", "Gary Oldman", "Natalie Portman"],
+            "Description": "Mathilda (Natalie Portman) is only 12 years old, but is already familiar with the dark side of life: her abusive father stores drugs for corrupt police officers, and her mother neglects her. Léon (Jean Reno), who lives down the hall, tends to his houseplants and works as a hired hitman for mobster Tony (Danny Aiello). When her family is murdered by crooked DEA agent Stansfield (Gary Oldman), Mathilda joins forces with a reluctant Léon to learn his deadly trade and avenge her family's deaths.",
+            "Poster": "./img/leon.jpg",
+            "Director": "Luc Besson"
+        },
+        {
+            "id": 12,
+            "Name": "Peaky Blinders",
+            "Year": 2013,
+            "Stars": ["Cillian Murphy", "Paul Anderson", "Helen McCrory"],
+            "Description": "Britain is a mixture of despair and hedonism in 1919 in the aftermath of the Great War. Returning soldiers, newly minted revolutions and criminal gangs are fighting for survival in a nation rocked by economic upheaval. One of the most powerful gangs of the time is the Peaky Blinders, run by returning war hero Thomas Shelby and his family.",
+            "Poster": "./img/peakyBlinders.jpg",
+            "Director": "Steven Knight and crew"
+        },
+        {
+            "id": 13,
+            "Name": "Pompeii",
+            "Year": 2014,
+            "Stars": ["Kit Harington", "Emily Browning", "Kiefer Sutherland"],
+            "Description": "In 79 A.D., Pompeii, a bustling port city, stands in the shadow of Mount Vesuvius. Milo (Kit Harington), a former slave, is a gladiator who has caught the eye of Cassia (Emily Browning), a wealthy merchant's daughter. However, their difference in social status is not the only obstacle to their love; Cassia has been promised to Corvus (Kiefer Sutherland), a corrupt Roman senator.",
+            "Poster": "./img/pompeii.jpg",
+            "Director": "Paul W. S. Anderson"
+        },
+        {
+            "id": 14,
+            "Name": "Remember me",
+            "Year": 2010,
+            "Stars": ["Robert Pattinson", "Emilie de Ravin", "Caitlyn Rund"],
+            "Description": "Tyler (Robert Pattinson) has had a strained relationship with his father (Pierce Brosnan) since a family tragedy. Rebellious and troubled, he thinks no one can understand his pain, then he meets Ally (Emilie de Ravin). Her warmth and spirit soon begin to heal him, and they fall in love. But just when Tyler begins to rediscover happiness and meaning in his life, emerging secrets threaten their romance.",
+            "Poster": "./img/rememberMe.jpg",
+            "Director": "Allen Coulter"
+        },
+        {
+            "id": 15,
+            "Name": "The Revenant",
+            "Year": 2015,
+            "Stars": ["Leonardo DiCaprio", "Tom Hardy", "Will Poulter"],
+            "Description": "While exploring the uncharted wilderness in 1823, frontiersman Hugh Glass (Leonardo DiCaprio) sustains life-threatening injuries from a brutal bear attack. When a member (Tom Hardy) of his hunting team kills his young son (Forrest Goodluck) and leaves him for dead, Glass must utilize his survival skills to find a way back to civilization.",
+            "Poster": "./img/revenant.jpg",
+            "Director": "Alejandro G. Iñárritu"
+        },
+        {
+            "id": 16,
+            "Name": "Seven",
+            "Year": 1995,
+            "Stars": ["Morgan Freeman", "Brad Pitt", "Kevin Spacey"],
+            "Description": "When retiring police Detective William Somerset (Morgan Freeman) tackles a final case with the aid of newly transferred David Mills (Brad Pitt), they discover a number of elaborate and grizzly murders. They soon realize they are dealing with a serial killer (Kevin Spacey) who is targeting people he thinks represent one of the seven deadly sins.",
+            "Poster": "./img/seven.jpg",
+            "Director": "David Fincher"
+        },
+        {
+            "id": 17,
+            "Name": "Shutter Island",
+            "Year": 2010,
+            "Stars": ["Leonardo DiCaprio", "Emily Mortimer", "Mark Ruffalo"],
+            "Description": "The implausible escape of a brilliant murderess brings U.S. Marshal Teddy Daniels (Leonardo DiCaprio) and his new partner (Mark Ruffalo) to Ashecliffe Hospital, a fortress-like insane asylum located on a remote, windswept island.",
+            "Poster": "./img/shutterIsland.jpg",
+            "Director": "Martin Scorsese"
+        },
+        {
+            "id": 18,
+            "Name": "Taboo",
+            "Year": 2107,
+            "Stars": ["Tom Hardy", "David Hayman", "Jonathan Pryce"],
+            "Description": "Adventurer James Keziah Delaney, long believed to be dead, returns home to London from Africa in 1814 in order to inherit his late father's shipping empire. All is not what it seems, however, as Delaney encounters numerous enemies intent on making his life back in the United Kingdom very difficult.",
+            "Poster": "./img/taboo.jpg",
+            "Director": "Tom Hardy"
+        },
+        {
+            "id": 19,
+            "Name": "The Godfather",
+            "Year": 1972,
+            "Stars": ["Marlon Brando", "Al Pacino", "James Caan"],
+            "Description": "Widely regarded as one of the greatest films of all time, this mob drama, based on Mario Puzo's novel of the same name, focuses on the powerful Italian-American crime family of Don Vito Corleone (Marlon Brando). When the don's youngest son, Michael (Al Pacino), reluctantly joins the Mafia, he becomes involved in the inevitable cycle of violence and betrayal.",
+            "Poster": "./img/theGodfather.jpg",
+            "Director": "Francis Ford Coppola"
+        },
+        {
+            "id": 20,
+            "Name": "To Kill A Mockingbird",
+            "Year": 1962,
+            "Stars": ["Gregory Peck", "John Megna", "Frank Overton"],
+            "Description": "Scout Finch (Mary Badham), 6,and her older brother, Jem (Phillip Alford), live in sleepy Maycomb, Ala., spending much of their time with their friend Dill (John Megna) and spying on their reclusive and mysterious neighbor, Boo Radley (Robert Duvall).",
+            "Poster": "./img/toKillAMockingbird.jpg",
+            "Director": "Robert Mulligan"
+        },
+        {
+            "id": 21,
+            "Name": "Troy",
+            "Year": 2004,
+            "Stars": ["Brad Pitt", "Eric Bana", "Orlando Bloom"],
+            "Description": "Based on Homer's \"Iliad,\" this epic portrays the battle between the ancient kingdoms of Troy and Sparta. While visiting Spartan King Menelaus (Brendan Gleeson), Trojan prince Paris (Orlando Bloom) falls for Menelaus' wife, Helen (Diane Kruger), and takes her back to Troy.",
+            "Poster": "./img/troy.jpg",
+            "Director": "Wolfgang Petersen"
+        },
+        {
+            "id": 22,
+            "Name": "Taxi Driver",
+            "Year": 1976,
+            "Stars": ["Robert De Niro", "Jodie Foster", "Cybill Shepherd"],
+            "Description": "Suffering from insomnia, disturbed loner Travis Bickle (Robert De Niro) takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+            "Director": "Martin Scorsese"
+        },
+        {
+            "id": 23,
+            "Name": "Vinyl",
+            "Year": 2016,
+            "Stars": ["Bobby Cannavale", "Paul Ben-Victor", "P.J. Byrne"],
+            "Description": "The music scene in 1970s New York is still awash in sex and drugs, but rock 'n' roll is giving way to an era of punk, disco and hip-hop. Desperately trying to navigate the changing landscape is American Century Records founder and president Richie Finestra.",
+            "Poster": "./img/vinyl.jpg",
+            "Director": "Martin Scorsese"
+        }
+    ]
+
+}

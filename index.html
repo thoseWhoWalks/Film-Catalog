@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="./img/favicon.ico" />
+    <link rel="stylesheet" href="./styles/bootstrap.min.css">
+    <link rel="stylesheet" href="./styles/app.min.css">
+    <title>Film Catalog</title>
+</head>
+
+<body>
+    <header style="height: 60px">
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top row">
+            <a class="navbar-brand offset-lg-1 col-lg-1" href="#">Logo</a>
+            <ul class="navbar-nav  col-lg-3">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Top 10</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Random</a>
+                </li>
+            </ul>
+            <form class="form-inline offset-lg-3 ol-lg-3 " action="">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">@</span>
+                    </div>
+                    <input type="text" id="searchInput" class="form-control" placeholder="Search a film">
+                </div>
+            </form>
+        </nav>
+    </header>
+
+    <div class="container">
+
+        <div class="container" id="content">
+
+        </div>
+
+        <div id="buttonContainer" class="row justify-content-center">
+            <button type="button" id="loadMore" class="btn btn-primary">Load 5 more</button>
+        </div>
+
+        <div id="pagination" class="row justify-content-center">
+
+        </div>
+
+
+    </div>
+    <hr/>
+    <footer>
+        <div class="fluid-container text-center">
+            <span class="text-muted ">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias possimus dicta, porro reiciendis.</span><br>
+            <span class="text-light">@By me @2018</span>
+        </div>
+    </footer>
+
+    <script src="./js/jquery.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js "></script>
+
+    <script src="./js/dataLoader.js"></script>
+    <script src="./js/uiBuilder.js"></script>
+    <script src="./js/pagination.js"></script>
+    <script src="./js/uiLoader.js"></script>
+    <script src="./js/main.js"></script>
+</body>
+
+</html>
