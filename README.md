@@ -1,1 +1,1 @@
-# Film-Catalog-Ajax
+# Film-Catalog-Ajax SPA with AJAX
